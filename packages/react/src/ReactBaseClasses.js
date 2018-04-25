@@ -8,7 +8,6 @@
 import emptyObject from 'fbjs/lib/emptyObject';
 import invariant from 'fbjs/lib/invariant';
 import lowPriorityWarning from 'shared/lowPriorityWarning';
-
 import ReactNoopUpdateQueue from './ReactNoopUpdateQueue';
 
 /**
